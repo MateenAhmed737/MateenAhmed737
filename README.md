@@ -1,4 +1,4 @@
-<center>Hi 👋, I'm Mateen Ahmed</center>
+<h1 text-align='center'>Hi 👋, I'm Mateen Ahmed</h1>
 
 <!--
 **MateenAhmed737/MateenAhmed737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
 I am a Junior Software Developer with 1 year of experience in the field of web and mobile app development. I have a strong foundation in JavaScript, and have experience working with popular frameworks such as React and React Native. My passion lies in creating user-friendly, efficient and innovative applications that deliver value to users.
 
 - 🌱 I’m currently learning React, React Native, Git, GitHub, RESTful APIs, ASP.NET
