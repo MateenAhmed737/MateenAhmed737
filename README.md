@@ -1,4 +1,4 @@
-### Hi 👋, I'm Mateen Ahmed
+<h1 text-align="center">Hi 👋, I'm Mateen Ahmed</h1>
 
 <!--
 **MateenAhmed737/MateenAhmed737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Status
 - 🌱 I’m currently learning React, React Native, Git, GitHub, RESTful APIs, ASP.NET
 
 ## About Me
