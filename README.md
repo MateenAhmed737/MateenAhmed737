@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Junior Software Developer with 1 year of experience in the field of web and mobile app development. I have a strong foundation in JavaScript, and have experience working with popular frameworks such as React and React Native. My passion lies in creating user-friendly, efficient and innovative applications that deliver value to users.
 
-// - 🌱 I’m currently learning React, React Native, Git, GitHub, RESTful APIs, ASP.NET
+<!-- - 🌱 I’m currently learning React, React Native, Git, GitHub, RESTful APIs, ASP.NET -->
 
 ## Skills
 - Proficient in JavaScript and ReactJS
